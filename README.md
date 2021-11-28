@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**sodaMelon/sodaMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20It's%20Sodam%20here&fontAlign=50&fontSize=60&fontAlignY=50&color=gradient)
 
-Here are some ideas to get you started:
+### Sodam Lee(sodaMelon)
+📍 - Living in Korea  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------
+#### 
+
+<h3>✨ Technology Stack ✨</h3>
+
+- <img src="https://img.shields.io/badge/-Java-orange"/> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/> <img src="https://img.shields.io/badge/-JPA-brightgreen"/><img src="https://img.shields.io/badge/-MySQL-navy"/> <img src="https://img.shields.io/badge/-Git-black"/>    
+- <img src="https://img.shields.io/badge/-HTML5-orange"/> <img src="https://img.shields.io/badge/-CSS3-BLUE"/>  
+- <img src="https://img.shields.io/badge/-Python-blue"/>   <img src="https://img.shields.io/badge/-JavaScript-yellow"/> <img src="https://img.shields.io/badge/-Node.js-green"/> 
+  <img src="https://img.shields.io/badge/-Express.js-green"/> 
+
+ 
+
+
+📧 contact : sodamlee315@gmail.com
+  
