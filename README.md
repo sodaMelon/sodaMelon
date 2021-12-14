@@ -4,6 +4,9 @@
 ### Sodam Lee(sodaMelon)
 📍 - Living in Korea  
 
+MY recent projects are consisted of **Java and Spring.**  
+(Whenever it's necessary, I can study and do another language 😊 ) 
+
 ---------------
 #### 
 
