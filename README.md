@@ -2,13 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20It's%20Sodam%20here&fontAlign=50&fontSize=60&fontAlignY=50&color=gradient)
 
 ### Sodam Lee(sodaMelon)
-📍 - Living in Korea  
+📍 - Living in Korea 
 
-MY recent projects are consisted of **Java and Spring.**  
+My recent projects have consisted of **Java and Spring Boot.**
 (Whenever it's necessary, I can study and do another language 😊 ) 
 
-now i m intersted in how to make test effectively 👀
-
+Now I'm interested in how to conduct tests effectively.👀
 
 ---------------
 #### 
