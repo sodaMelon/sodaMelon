@@ -4,7 +4,7 @@
 ### Sodam Lee, sodaMelon
 📍living in Korea
 
-just played Pokemon game since was child…… then grew up as developer✨️ lmao
+just played Pokemon game since was child, then grew up as developer✨️ lmao
  
 
 
@@ -12,7 +12,7 @@ just played Pokemon game since was child…… then grew up as developer✨️ l
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsodaMelon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 🎶pastime for fun
+### pastime for fun
 #### [PokeRogue](https://github.com/pagefaultgames/pokerogue) : A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - added Korean localization (UI, dialouges, explanations... etc) 
 - reviewed works, fixed somthing
