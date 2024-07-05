@@ -1,9 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20It's%20Sodam%20here&fontAlign=50&fontSize=60&fontAlignY=50&color=gradient)
 
-### Sodam Lee(sodaMelon, Living in Korea📍 ) 
+### Sodam Lee, sodaMelon
+📍living in Korea
 
-I just played Pokemon game since was child…… then grew up as developer! lmao
+just played Pokemon game since was child…… then grew up as developer✨️ lmao
  
 
 
