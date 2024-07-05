@@ -4,7 +4,7 @@
 ### Sodam Lee(sodaMelon)
 📍 - Living in Korea 
 
-x
+I just played Pokemon game since was child..... then grew up as developer......😉✨
  
 
 
