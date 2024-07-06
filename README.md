@@ -16,7 +16,7 @@ just played Pokemon game since was child, then grew up as developer✨️ lmao
 #### [PokeRogue](https://github.com/pagefaultgames/pokerogue) : A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - added Korean localization (UI, dialouges, explanations... etc) 
 - reviewed works, fixed somthing
-- checked bug-reports in Korean environment (on PokeRogue Discord)
+- checked bug-reports in Korean environment (on PokeRogue community Discord)
 
 #### [ESLint/ESLint](https://github.com/eslint/eslint) : Find and fix problems in your JavaScript code.
 - added exceptionPatterns to id-length rule (pr#13576)
