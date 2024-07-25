@@ -14,7 +14,7 @@ just played Pokemon game since was child, then grew up as developer✨️ lmao
 
 ### pastime for fun
 #### [PokeRogue](https://github.com/pagefaultgames/pokerogue) : A browser based Pokémon fangame heavily inspired by the roguelite genre.
-- added Korean localization (UI, dialouges, explanations... etc) (pr#a_lot : if you wanna check them, see the officail repositoy) 
+- added Korean localization (UI, dialouges, explanations... etc) (pr#a_lot : if you wanna check them, see the official repositoy) 
 - reviewed works, fixed somthing
 - checked bug-reports in Korean environment (on PokeRogue community Discord)
 
