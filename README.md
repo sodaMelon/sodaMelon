@@ -13,13 +13,16 @@ just played Pokemon game since was child, then grew up as developer✨️ lmao
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsodaMelon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### pastime for fun
-#### [PokeRogue](https://github.com/pagefaultgames/pokerogue) : A browser based Pokémon fangame heavily inspired by the roguelite genre.
-- added Korean localization (UI, dialouges, explanations... etc) (pr#a_lot : if you wanna check them, see the official repositoy) 
-- reviewed works, fixed somthing
-- checked bug-reports in Korean environment (on PokeRogue community Discord)
 
 #### [ESLint/ESLint](https://github.com/eslint/eslint) : Find and fix problems in your JavaScript code.
 - added exceptionPatterns to id-length rule (pr#13576)
+
+#### [PokeRogue](https://github.com/pagefaultgames/pokerogue) : A browser based Pokémon fangame heavily inspired by the roguelite genre.
+- added Korean localization (UI, dialouges, explanations... etc)
+- reviewed works, fixed somthing
+- checked bug-reports in Korean environment (on PokeRogue community Discord)
+  
+✔i did pull_request#many about it. so.. : if you wanna check them, see the official repositoy 
 
 #### [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) : The Website and web infrastructure for learning TypeScript
 - added Korean localization for typescript-playground (pr#1116)
