@@ -22,7 +22,8 @@ just played Pokemon game since was child, then grew up as developer✨️ lmao
 - reviewed works, fixed somthing
 - checked bug-reports in Korean environment (on PokeRogue community Discord)
   
-✔i did pull_request#many about it. so.. : if you wanna check them, see the official repositoy 
+✔i did pull_request#many about it because love pokemon🥰
+_so.. : if you wanna check them, see the official repositoy_
 
 #### [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) : The Website and web infrastructure for learning TypeScript
 - added Korean localization for typescript-playground (pr#1116)
