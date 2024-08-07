@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20It's%20Sodam%20here&fontAlign=50&fontSize=60&fontAlignY=50&color=gradient)
 
-### Sodam Lee, sodaMelon
+### Sodam-elon Lee, sodaMelon
 📍living in Korea
 
 just played Pokemon game since was child, then grew up as developer✨️ lmao
@@ -19,7 +19,7 @@ just played Pokemon game since was child, then grew up as developer✨️ lmao
 
 #### [PokeRogue](https://github.com/pagefaultgames/pokerogue) : A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - added Korean localization (UI, dialouges, explanations... etc)
-- reviewed works, fixed somthing
+- reviewed works, fixed, tested somthing
 - checked bug-reports in Korean environment (on PokeRogue community Discord)
   
 ✔i did pull_request#many about it because love pokemon🥰
