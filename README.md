@@ -4,8 +4,8 @@
 ### Sodam-elon Lee, sodaMelon
 📍living in Korea
 
-just played Pokemon game since was child, then grew up as developer✨️ lmao
- 
+- just played Pokemon game since was child, then grew up as developer✨️ lmao
+- **backend mania** : SpringBoot, Django, supabase.. etc
 
 
 📧 contact : sodamlee315@gmail.com (English / 日本語 / 한국어 OK)
