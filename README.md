@@ -27,3 +27,6 @@ _so.. : if you wanna check them, see the official repositoy_
 
 #### [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) : The Website and web infrastructure for learning TypeScript
 - added Korean localization for typescript-playground (pr#1116)
+
+### [fastapi/fastapi](https://github.com/fastapi/fastapi)
+- reviewed korean docs (pr#12540, 12547, 12515, 12546, 12541, 12659, 12646, 12526, 13004, 12726, 13335, 13063..... 📝📚🙆🏻‍♀️
