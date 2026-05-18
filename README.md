@@ -29,5 +29,5 @@ _so.. : if you wanna check them, see the official repositoy_
 - added Korean localization for typescript-playground (pr#1116)
 
 ### [fastapi/fastapi](https://github.com/fastapi/fastapi)
-- i'm [Top3 Translation Reviewers](https://fastapi.tiangolo.com/fastapi-people/#top-contributors) 😉
+- i'm [Top3 Translation Reviewers]([https://fastapi.tiangolo.com/fastapi-people/#top-contributors](https://fastapi.tiangolo.com/fastapi-people/#top-translation-reviewers)) 😉
 - reviewed korean docs (pr#4543, 12540, 12547, 12515, 12546, 12541, 12659, 12646, 12526, 13004, 12726, 13333, 13335, 13630, 13063..... 📝📚🙆🏻‍♀️
